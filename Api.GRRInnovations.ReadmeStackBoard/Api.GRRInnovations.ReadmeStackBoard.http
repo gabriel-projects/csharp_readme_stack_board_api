@@ -1,0 +1,6 @@
+@Api.GRRInnovations.ReadmeStackBoard_HostAddress = http://localhost:5125
+
+GET {{Api.GRRInnovations.ReadmeStackBoard_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
